@@ -3,7 +3,7 @@
 Feature selector is a tool for dimensionality reduction of machine learning datasets.
 ---
 
-# Install
+# **Install**
 ```
 pip install feature_selector
 ```
